@@ -84,8 +84,7 @@ main p{
 
 .badge{
     width: 65px;
-    height: 25px;
-    background-color: #47ADF1;
+    height: 25px;  
     display: inline-block;
     margin-bottom: 0;
     vertical-align: middle;
@@ -93,4 +92,36 @@ main p{
     text-align: center;
     color: white;
     padding-top: 5px;
+}
+
+div.row1{
+    background-color: #47ADF1;
+}
+
+div.row2{
+    background-color: #47ADF1;
+}
+
+div.row3{
+    background-color: #9C72E4;
+}
+
+div.row4{
+    background-color: #64C0A9;
+}
+
+div.row5{
+    background-color: #F29E33;
+}
+
+div.row7{
+    background-color: #D863A1;
+}
+
+div.row8{
+    background-color: #B0C926;
+}
+
+div.row9{
+    background-color: #47ADF1;
 }
