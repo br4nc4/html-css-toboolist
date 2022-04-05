@@ -53,6 +53,42 @@ main h3{
     margin-bottom: 13px;
 }
 
+div.row1{
+    background-color: #47ADF1;
+}
+
+div.row2{
+    background-color: #47ADF1;
+}
+
+div.row3{
+    background-color: #9C72E4;
+}
+
+div.row4{
+    background-color: #64C0A9;
+}
+
+div.row5{
+    background-color: #F29E33;
+}
+
+div.row7{
+    background-color: #D863A1;
+}
+
+div.row8{
+    background-color: #B0C926;
+}
+
+div.row9{
+    background-color: #47ADF1;
+}
+
+div.circle{
+    margin-right: 6px;
+}
+
 /*start proprietà bottoni barra navigazione */
 .task{
     background-color: #47ADF1;
@@ -98,38 +134,3 @@ main h3{
     padding-top: 5px;
 }
 
-div.row1{
-    background-color: #47ADF1;
-}
-
-div.row2{
-    background-color: #47ADF1;
-}
-
-div.row3{
-    background-color: #9C72E4;
-}
-
-div.row4{
-    background-color: #64C0A9;
-}
-
-div.row5{
-    background-color: #F29E33;
-}
-
-div.row7{
-    background-color: #D863A1;
-}
-
-div.row8{
-    background-color: #B0C926;
-}
-
-div.row9{
-    background-color: #47ADF1;
-}
-
-div.circle{
-    margin-right: 6px;
-}
