@@ -45,6 +45,10 @@ main div{
     margin-bottom: 20px;
 }
 
+main p{
+    display: inline-block;
+}
+
 /*start proprietà bottoni barra navigazione */
 .task{
     background-color: #47ADF1;
@@ -58,5 +62,35 @@ main div{
 }
 /*end proprietà bottoni barra navigazione */
 
+.circle{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    border: 1px solid;
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+}
 
+.confirmed{
+    border-color: #84D0C0;
+    color:#84D0C0;
+}
 
+.denied{
+    border-color: #EE7069;
+    color:#EE7069;
+}
+
+.badge{
+    width: 65px;
+    height: 25px;
+    background-color: #47ADF1;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
